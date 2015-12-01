@@ -30,7 +30,7 @@
     Text="New Employees in Seattle?" /></p>-->
 
     <div id="message">
-        TEST with Github
+        TEST with Github again
     </div>
 
     <p><asp:HyperLink runat="server" NavigateUrl="JavaScript:window.location = _spPageContextInfo.webAbsoluteUrl + '/Pages/Help.aspx';" 
