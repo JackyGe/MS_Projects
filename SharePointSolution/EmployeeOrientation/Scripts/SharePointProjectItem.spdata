@@ -5,5 +5,6 @@
     <ProjectItemFile Source="App.js" Target="Scripts\" Type="ElementFile" />
     <ProjectItemFile Source="jquery-1.11.1.min.js" Target="Scripts\" Type="ElementFile" />
     <ProjectItemFile Source="OrientationStageRendering.js" Target="Scripts\" Type="ElementFile" />
+    <ProjectItemFile Source="Add-in.js" Target="Scripts\" Type="ElementFile" />
   </Files>
 </ProjectItem>

@@ -17,6 +17,7 @@
 
     <!-- Add your JavaScript to the following file -->
     <script type="text/javascript" src="../Scripts/App.js"></script>
+    <script type="text/javascript" src="../Scripts/Add-in.js"></script>
 </asp:Content>
 
 <%-- The markup in the following Content element will be placed in the TitleArea of the page --%>
@@ -38,4 +39,6 @@
 
     <p><asp:HyperLink runat="server" NavigateUrl="JavaScript:window.location = _spPageContextInfo.webAbsoluteUrl + '/Lists/NewEmployeesInSeattle/AllItems.aspx';" 
     Text="List View Page for New Employees in Seattle" /></p>
+
+    <p><asp:Button runat="server" OnClientClick="return purgeCompletedItems()" ID="purgecompleteditemsbutton" Text="Purge Completed Items" /></p>
 </asp:Content>

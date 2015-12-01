@@ -48,6 +48,7 @@
     <Content Include="RunOrientationAdd-in\Elements.xml">
       <OpcRelationship>feature-elementmanifest</OpcRelationship>
     </Content>
+    <Content Include="Scripts\Add-in.js" />
     <Content Include="Scripts\jquery-1.11.1.min.js" />
     <Content Include="Scripts\OrientationStageRendering.js" />
     <Content Include="SiteColumns\Division\Elements.xml" />

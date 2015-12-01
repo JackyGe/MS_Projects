@@ -10,12 +10,15 @@
         </Row>
         <Row>
           <Field Name="Title">Satomi Hayakawa</Field>
+          <Field Name="OrientationStage">Completed</Field>
         </Row>
         <Row>
           <Field Name="Title">Cassi Hicks</Field>
+          <Field Name="OrientationStage">Completed</Field>
         </Row>
         <Row>
           <Field Name="Title">Lertchai Treetawatchaiwong</Field>
+          <Field Name="OrientationStage">Completed</Field>
         </Row>
       </Rows>
     </Data>
