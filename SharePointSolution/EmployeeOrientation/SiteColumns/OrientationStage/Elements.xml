@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Elements xmlns="http://schemas.microsoft.com/sharepoint/">  
+  <Field
+       ID="{6a8ef6c1-dc80-4569-a1c8-8883875f6f14}"
+       Name="OrientationStage"
+       DisplayName="Orientation Stage"
+       Type="Text"
+       Required="True"
+       Group="Employee Orientation"
+       Description="The current orientation stage of the employee.">
+  </Field>
+</Elements>

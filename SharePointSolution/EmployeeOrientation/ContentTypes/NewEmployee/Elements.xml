@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Elements xmlns="http://schemas.microsoft.com/sharepoint/">
+  <!-- Parent ContentType: Item (0x01) -->
+  <ContentType ID="0x0100F26B2D0C9D694498B1162786F86C0535" Name="NewEmployee" Group="Employee Orientation" Description="Represents a new employee" Inherits="FALSE" Version="0">
+    <FieldRefs>
+      <FieldRef ID="{262da990-0736-4182-92f2-7edd524ea254}" DisplayName="Division" Required="FALSE" Description="The division of the company where the employee works." Name="Division" />
+      <FieldRef ID="{6a8ef6c1-dc80-4569-a1c8-8883875f6f14}" DisplayName="Orientation Stage" Required="True" Description="The current orientation stage of the employee." Name="OrientationStage" />
+      <FieldRef Name="LinkTitle" ID="{82642ec8-ef9b-478f-acf9-31f7d45fbc31}" DisplayName="Employee" />
+      <FieldRef Name="Title" ID="{fa564e0f-0c70-4ab9-b863-0177e6ddd247}" DisplayName="Employee" />
+    </FieldRefs>
+  </ContentType>
+</Elements>

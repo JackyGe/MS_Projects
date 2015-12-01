@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Elements xmlns="http://schemas.microsoft.com/sharepoint/">  
+  <Field
+       ID="{262da990-0736-4182-92f2-7edd524ea254}"
+       Name="Division"
+       DisplayName="Division"
+       Type="Choice"
+       Required="FALSE"
+       Group="Employee Orientation"
+       Description="The division of the company where the employee works."
+       JSLink="~site/Scripts/OrientationStageRendering.js">
+    <CHOICES>
+      <CHOICE>Not Started</CHOICE>
+      <CHOICE>Tour of building</CHOICE>
+      <CHOICE>HR paperwork</CHOICE>
+      <CHOICE>Corporate network access</CHOICE>
+      <CHOICE>Completed</CHOICE>
+    </CHOICES>
+    <MAPPINGS>
+      <MAPPING Value="1">Not Started</MAPPING>
+      <MAPPING Value="2">Tour of building</MAPPING>
+      <MAPPING Value="3">HR paperwork</MAPPING>
+      <MAPPING Value="4">Corp network access</MAPPING>
+      <MAPPING Value="5">Completed</MAPPING>
+    </MAPPINGS>
+    <Default>Not Started</Default>
+  </Field>
+</Elements>
