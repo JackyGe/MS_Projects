@@ -41,4 +41,6 @@
     Text="List View Page for New Employees in Seattle" /></p>
 
     <p><asp:Button runat="server" OnClientClick="return purgeCompletedItems()" ID="purgecompleteditemsbutton" Text="Purge Completed Items" /></p>
+
+    <p><asp:Button runat="server" OnClientClick="return ensureOrientationScheduling()"  ID="ensureorientationschedulingbutton" Text="Ensure all items are on the Calendar" /></p>
 </asp:Content>
