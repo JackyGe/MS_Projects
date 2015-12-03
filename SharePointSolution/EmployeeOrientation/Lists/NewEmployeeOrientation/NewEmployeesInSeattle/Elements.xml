@@ -20,6 +20,10 @@
           <Field Name="Title">Lertchai Treetawatchaiwong</Field>
           <Field Name="OrientationStage">Not started</Field>
         </Row>
+        <Row>
+          <Field Name="Title">Jacky Ge</Field>
+          <Field Name="OrientationStage">Completed</Field>
+        </Row>
       </Rows>
     </Data>
   </ListInstance>
