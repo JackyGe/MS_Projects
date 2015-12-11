@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns:dm0="http://schemas.microsoft.com/VisualStudio/2008/DslTools/Core" dslVersion="1.0.0.0" Id="29952eab-325f-418e-ac20-3c5b1d22fcda" solutionId="29952eab-325f-418e-ac20-3c5b1d22fcda" resetWebServer="false" sharePointProductVersion="15.0" name="SPRESTServiceProject" xmlns="http://schemas.microsoft.com/VisualStudio/2008/SharePointTools/PackageModel">
+  <projectItems>
+    <projectItemReference itemId="3fb6245e-db7a-4ccd-98b0-a0f6dcb05448" />
+  </projectItems>
+</package>
